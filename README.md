@@ -1,4 +1,4 @@
-# 📰 News Portal – 
+# 📰 News Portal
 
 A full-stack **News Portal web application** built using **Python and Django**.  
 The platform allows users to browse news, search for articles, view news by category, comment on posts, and manage profiles. It also includes an administration system for managing news, categories, comments, and sub-admins.
